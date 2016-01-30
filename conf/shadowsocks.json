@@ -1,0 +1,11 @@
+{
+  "server":"127.0.0.1",
+  "server_port":8964,
+  "local_address": "127.0.0.1",
+  "local_port":8080,
+  "password":"my-password",
+  "timeout":600,
+  "method":"aes-256-cfb",
+  "fast_open":true,
+  "workers":1
+}
